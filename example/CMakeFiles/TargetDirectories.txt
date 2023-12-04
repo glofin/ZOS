@@ -1,0 +1,3 @@
+/mnt/c/Users/Lenovo/Documents/zcu/ZOS/sem/ZOS/example/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Lenovo/Documents/zcu/ZOS/sem/ZOS/example/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Lenovo/Documents/zcu/ZOS/sem/ZOS/example/CMakeFiles/example.dir

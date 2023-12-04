@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Lenovo/Documents/zcu/ZOS/sem/ZOS/example/ext.h
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+
+/mnt/c/Users/Lenovo/Documents/zcu/ZOS/sem/ZOS/example/main.c
+stdio.h
+-
+ext.h
+/mnt/c/Users/Lenovo/Documents/zcu/ZOS/sem/ZOS/example/ext.h
+string.h
+-
+
